@@ -2,6 +2,9 @@
 
 -----------------
 
+- ## Aperi'Solve
+  - [Aperi'Solve](https://aperisolve.fr/) - One of the most best tool, can guess password for steghide etc..
+
 - ## Barcode / QRCode reader
   - [ZXing](https://zxing.org/w/decode.jspx) - Decode a 1D or 2D barcode from an image on the web
 
